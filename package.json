@@ -1,0 +1,28 @@
+{
+  "name": "webpack-gym",
+  "version": "1.0.0",
+  "description": "A repo to train with webpack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MisaelCalvillo/webpack-gym.git"
+  },
+  "keywords": [
+    "webpack",
+    "train"
+  ],
+  "author": "@MisaelCalvillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MisaelCalvillo/webpack-gym/issues"
+  },
+  "homepage": "https://github.com/MisaelCalvillo/webpack-gym#readme",
+  "devDependencies": {
+    "webpack": "^4.6.0",
+    "webpack-cli": "^2.0.14"
+  }
+}
